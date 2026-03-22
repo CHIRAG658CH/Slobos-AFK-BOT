@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": ASTRAL_X071211.aternos.me:
-    "port": 43954
+    "ip":ASTRAL_X071211.aternos.me
+    "port":43954
     "version": "1.21.1"
   },
   "position": {
